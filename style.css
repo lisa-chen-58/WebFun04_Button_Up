@@ -1,0 +1,35 @@
+*{
+    margin:20px;
+    /* box-sizing:border-box; */
+}
+strong{
+    border-radius: 10px;
+    background-color:whitesmoke;
+    color:lightseagreen;
+    border: 1px;
+    border-style: solid;
+    width: 50px;
+    text-align: center;
+    padding:1px 40px;
+}
+h5{
+    border-radius: 30px;
+    color:white;
+    background-color: lightseagreen;
+    border: 1px;
+    border-style: solid;
+    width: 15px;
+    padding: 10px;
+    text-align: center;
+}
+button{
+    background-color: slateblue;
+    color: white;
+    box-shadow: 5px 5px 2px 1px black;
+    padding:5px 30px;
+
+
+}
+
+
+/* form > button{background-color: orange; */
